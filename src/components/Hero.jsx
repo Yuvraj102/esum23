@@ -57,6 +57,7 @@ const Hero = () => {
         </p>
         <div className="my-5"></div>
         {/* <Button /> */}
+        <a>Register Now</a>
       </div>
 
       <div

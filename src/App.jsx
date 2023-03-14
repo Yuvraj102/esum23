@@ -16,6 +16,7 @@ import {
 } from "./components";
 import CountDown from "./components/CountDown";
 import Home from "./components/Home";
+import Button from "./components/Button";
 
 const App = () => (
   <div className="bg-primary w-full overflow-hidden">
@@ -30,7 +31,7 @@ const App = () => (
         <Home />
       </div>
     </div>
-
+    <Button />
     <div className={`bg-primary ${styles.paddingX} ${styles.flexCenter}`}>
       <div className={`${styles.boxWidth}`}>
         <Stats />

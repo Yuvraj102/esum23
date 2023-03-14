@@ -4,7 +4,7 @@ import Button from "../components/Button";
 import LottieFile from "./LottieFile";
 import e_summit23_logo from "../assets/e-summit23.png";
 import Trucklootie from "./Trucklootie";
-import  './animations.css';
+import "./animations.css";
 const Home = () => {
   return (
     <div
@@ -12,6 +12,7 @@ const Home = () => {
       style={{ marginBottom: 20, maxHeight: "60vh " }}
     >
       <img src={e_summit23_logo} />
+      {/* <Button /> */}
     </div>
   );
 };
