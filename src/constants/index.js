@@ -92,7 +92,7 @@ export const events = [
     name: "Keynote Session",
     title: "Technical Session",
     // img: thinker,
-    img: keynote,
+    img: panel,
     desc1:
       "The E summit shall be graced by various eminent entrepreneurs who have established and etched thier name in the perpetual adjective of social contributors with captivating money minded caliber They shall be gracing the event with their wise words in the form of speaker sessions which will be attended by an estorically driven audience",
   },
@@ -103,7 +103,7 @@ export const events = [
     name: "Panel Discussion",
     title: "Industry Expert",
     // img: pitchDesk,
-    img: panel,
+    img: keynote,
     desc1:
       "Without a great discussion there can never be a great result Industry experts from various domains shall gather together to form an irrestible lineup for the panel discussion that will be a vital part of E-Summit 23 The panel shall be discussing various domains completely related to entrepreneurship and its contributions to society as well as entrepreneurship with future opportunities and many more topics.",
   },
