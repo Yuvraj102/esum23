@@ -2,6 +2,7 @@ import airbnb from "./airbnb.png";
 import bill from "./bill.png";
 import binance from "./binance.png";
 import card from "./card.png";
+import ecell from "./ecell.png";
 import coinbase from "./coinbase.png";
 import dropbox from "./dropbox.png";
 import logo from "./e-summit23.png";
@@ -28,7 +29,17 @@ import hackathon from "./hackathon 1.png";
 import pitchDesk from "./pitch desk.png";
 import thinker from "./idea.png";
 
+import keynote from "./1.svg";
+import panel from "./2.svg";
+import standup from "./3.svg";
+
+import ecellhd from "./ecellhd.png";
+
 export {
+  ecellhd,
+  keynote,
+  panel,
+  standup,
   airbnb,
   bill,
   binance,
@@ -58,4 +69,5 @@ export {
   hackathon,
   pitchDesk,
   thinker,
+  ecell,
 };

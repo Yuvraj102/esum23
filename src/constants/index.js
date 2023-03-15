@@ -1,4 +1,7 @@
 import {
+  keynote,
+  panel,
+  standup,
   people01,
   people02,
   people03,
@@ -88,7 +91,8 @@ export const events = [
       "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
     name: "Keynote Session",
     title: "Technical Session",
-    img: thinker,
+    // img: thinker,
+    img: keynote,
     desc1:
       "The E summit shall be graced by various eminent entrepreneurs who have established and etched thier name in the perpetual adjective of social contributors with captivating money minded caliber They shall be gracing the event with their wise words in the form of speaker sessions which will be attended by an estorically driven audience",
   },
@@ -98,7 +102,8 @@ export const events = [
       "Money makes your life easier. If you're lucky to have it, you're lucky.",
     name: "Panel Discussion",
     title: "Industry Expert",
-    img: pitchDesk,
+    // img: pitchDesk,
+    img: panel,
     desc1:
       "Without a great discussion there can never be a great result Industry experts from various domains shall gather together to form an irrestible lineup for the panel discussion that will be a vital part of E-Summit 23 The panel shall be discussing various domains completely related to entrepreneurship and its contributions to society as well as entrepreneurship with future opportunities and many more topics.",
   },
@@ -108,7 +113,8 @@ export const events = [
       "It is usually people in the money business, finance, and international trade that are really rich.",
     name: "Standup",
     title: "Comedy Hours",
-    img: hackathon,
+    // img: hackathon,
+    img: standup,
     desc1:
       "A show full of laughter, a show full of entertainment, a dose of comedy to lighten up the senses of your dazzling embellishments! E-Cell RSCOE presents you the finest art of lightening up the mood and that is comedy! Comedy unleashed, comedy's supremacy and here it is , to leave a mark on the experience of your event which will make it a remarkable one! They say if you have seen comedy, you've seen everything. Here we come barging in, bringing you everything!",
   },
@@ -149,7 +155,7 @@ export const stats = [
   {
     id: "stats-3",
     title: "speakers",
-    value: "5+",
+    value: "10+",
   },
   {
     id: "stats-3",
@@ -200,19 +206,19 @@ export const footerLinks = [
       },
     ],
   },
-  {
-    title: "Partner",
-    links: [
-      {
-        name: "Our Partner",
-        link: "https://www.hoobank.com/our-partner/",
-      },
-      {
-        name: "Become a Partner",
-        link: "https://www.hoobank.com/become-a-partner/",
-      },
-    ],
-  },
+  // {
+  //   title: "Partner",
+  //   links: [
+  //     {
+  //       name: "Our Partner",
+  //       link: "https://www.hoobank.com/our-partner/",
+  //     },
+  //     {
+  //       name: "Become a Partner",
+  //       link: "https://www.hoobank.com/become-a-partner/",
+  //     },
+  //   ],
+  // },
 ];
 
 export const socialMedia = [
