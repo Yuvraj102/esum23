@@ -3,6 +3,7 @@ import axios from "axios";
 import "./spinner.css";
 import { useNavigate } from "react-router-dom";
 import qr from "../assets/sanket_payment.jpg";
+import { sanketQR250 } from "../assets";
 
 function Register() {
   const [loading, setLoading] = useState(false);
@@ -156,7 +157,7 @@ function Register() {
                 <div class="ml-3 text-sm"></div>
               </div>
               <img
-                src={qr}
+                src={sanketQR250}
                 alt="payment QR"
                 style={{
                   height: "300px",
