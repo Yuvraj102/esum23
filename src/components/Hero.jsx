@@ -26,7 +26,7 @@ const Hero = () => {
               JSPM RSCOE's
             </span>
             <h1 className="text-gradient flex-1 font-poppins font-semibold ss:text-[72px] text-[48px] ss:leading-[100.8px] leading-[75px]">
-              E-SUMMIT'22
+              E-SUMMIT'23
               <br className="sm:block hidden" />
             </h1>
             <div className="flex flex-row items-center py-[6px] px-4 bg-discount-gradient rounded-[10px] mb-2">

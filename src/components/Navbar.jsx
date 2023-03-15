@@ -48,7 +48,7 @@ const Navbar = () => {
           } ${3 === 4 - 1 ? "mr-0" : "mr-10"}`}
           onClick={() => setActive("Register")}
         >
-          <a href={`/register`}>{"Register Now"}</a>
+          <Link to="/register">Register Now</Link>
         </li>
         {/*{
           navLinks.map((nav, index) => (
@@ -110,7 +110,7 @@ const Navbar = () => {
               } ${3 === 4 - 1 ? "mb-0" : "mb-4"}`}
               onClick={() => setActive("Register")}
             >
-              <a href={`/register`}>{"Register Now"}</a>
+              <Link to="/register">Register Now</Link>
             </li>
             {/* {navLinks.map((nav, index) => (
               <li
