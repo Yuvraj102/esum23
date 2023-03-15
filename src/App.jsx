@@ -17,9 +17,11 @@ import {
 import CountDown from "./components/CountDown";
 import Home from "./components/Home";
 import Button from "./components/Button";
+import Success from "./components/Success";
 
 const App = () => (
   <div className="bg-primary w-full overflow-hidden">
+    <Success />
     <div className={`${styles.paddingX} ${styles.flexCenter}`}>
       <div className={`${styles.boxWidth}`}>
         <Navbar />

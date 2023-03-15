@@ -25,7 +25,11 @@ function Register() {
     setLoading(false);
     if (result.data?.status) {
       // success redirect
-      navigate("/", { replace: true });
+      localStorage.setItem(
+        "data",
+        JSON.stringify({ status: true, email: data.email })
+      );
+      navigate("/#alert", { replace: true });
     } else {
       alert("failed to save contact support");
     }
