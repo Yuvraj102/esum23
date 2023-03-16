@@ -53,7 +53,7 @@ export const features = [
     icon: send,
     title: "About Events",
     content:
-      "Entrepreneurship Summit is a 4-day event that is being organized with the vision providing a platform that stimulates discussion on ideas.",
+      "Entrepreneurship Summit is a 2-day event that is being organized with the vision providing a platform that stimulates discussion on ideas.",
   },
 ];
 
