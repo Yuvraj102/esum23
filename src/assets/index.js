@@ -29,6 +29,7 @@ import hackathon from "./hackathon 1.png";
 import pitchDesk from "./pitch desk.png";
 import thinker from "./idea.png";
 import sanketQR250 from "./sanket250qr.jpg";
+import sanketQR100 from "./sanket100.jpg";
 import keynote from "./1.svg";
 import panel from "./2.svg";
 import standup from "./3.svg";
@@ -71,4 +72,5 @@ export {
   thinker,
   ecell,
   sanketQR250,
+  sanketQR100,
 };

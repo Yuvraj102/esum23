@@ -33,9 +33,9 @@ const AboutUs = () => (
         The longest, most magnificent and the most influential entrepreneurship
         event to be organized till date by E-Cell RSCOE.
         <br />
-        This event will be organized over the course of three to four working
-        days with several technical events along with guest speakers who will be
-        giving valuable guidance to the budding innovators and creators.
+        This event will be organized over the course of two working days with
+        several technical events along with guest speakers who will be giving
+        valuable guidance to the budding innovators and creators.
       </p>
 
       {/* <Button styles={`mt-10`} /> */}

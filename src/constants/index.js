@@ -107,17 +107,17 @@ export const events = [
     desc1:
       "Without a great discussion there can never be a great result Industry experts from various domains shall gather together to form an irrestible lineup for the panel discussion that will be a vital part of E-Summit 23 The panel shall be discussing various domains completely related to entrepreneurship and its contributions to society as well as entrepreneurship with future opportunities and many more topics.",
   },
-  {
-    id: "event-3",
-    content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Standup",
-    title: "Comedy Hours",
-    // img: hackathon,
-    img: standup,
-    desc1:
-      "A show full of laughter, a show full of entertainment, a dose of comedy to lighten up the senses of your dazzling embellishments! E-Cell RSCOE presents you the finest art of lightening up the mood and that is comedy! Comedy unleashed, comedy's supremacy and here it is , to leave a mark on the experience of your event which will make it a remarkable one! They say if you have seen comedy, you've seen everything. Here we come barging in, bringing you everything!",
-  },
+  // {
+  //   id: "event-3",
+  //   content:
+  //     "It is usually people in the money business, finance, and international trade that are really rich.",
+  //   name: "Standup",
+  //   title: "Comedy Hours",
+  //   // img: hackathon,
+  //   img: standup,
+  //   desc1:
+  //     "A show full of laughter, a show full of entertainment, a dose of comedy to lighten up the senses of your dazzling embellishments! E-Cell RSCOE presents you the finest art of lightening up the mood and that is comedy! Comedy unleashed, comedy's supremacy and here it is , to leave a mark on the experience of your event which will make it a remarkable one! They say if you have seen comedy, you've seen everything. Here we come barging in, bringing you everything!",
+  // },
 ];
 
 export const whatWeProvide = [
