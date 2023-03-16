@@ -15,11 +15,7 @@ const SpeakerCard = ({ content, name, title, img, desc1, eid }) => (
         <p className="font-poppins font-normal italic text-[18px] leading-[24px] text-dimWhite text-center">
           {`"` + desc1 + `"`}
         </p>
-        <p className="font-poppins font-normal italic text-[18px] leading-[24px] text-dimWhite text-center">
-          "In publishing and graphic design, Lorem ipsum is a placeholder text
-          commonly used to demonstrate the visual form of a document or a
-          typeface without relying on meaningful content"
-        </p>
+        <p className="font-poppins font-normal italic text-[18px] leading-[24px] text-dimWhite text-center"></p>
       </div>
     </div>
     {/* <p className="font-poppins text-center font-normal text-[18px] leading-[32.4px] text-white my-10">
